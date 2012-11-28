@@ -1,11 +1,11 @@
-1)Jaki wzorzec projektowy zosta≥ zaprezentowany na diagramie?
-->
+1)Jaki wzorzec projektowy zosta≈Ç zaprezentowany na diagramie?
+-> obserwator
 
-2)W jakich sytuacjach naleøy uøyÊ tego wzorca?
-->
+2)W jakich sytuacjach nale≈ºy u≈ºyƒá tego wzorca?
+-> U≈ºywany jest do powiadamiania zainteresowanych obiekt√≥w o zmianie stanu pewnego innego obiektu.
 
-3)W bazie chcemy przechowywaÊ dane dotyczπce operatorÛw stacji meteorologicznych. (1 stacja moøe posiadaÊ kilka operatorÛw) 
-Zaprojektuj i zaimplementuj model logiczny takiego problemu, oraz stwÛrz odpowiednie klasy s≥uøπce do wykonywania operacji CRUD 
+3)W bazie chcemy przechowywaƒá dane dotycz≈°ce operator√≥w stacji meteorologicznych. (1 stacja mo≈ºe posiadaƒá kilka operator√≥w) 
+Zaprojektuj i zaimplementuj model logiczny takiego problemu, oraz stw√≥rz odpowiednie klasy s≈Çu≈º≈°ce do wykonywania operacji CRUD 
 na bazie danych na serwerze HyperSQL.
 
 4)Zaimplementuj testy jednostkowe do napisanych klas.
